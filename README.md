@@ -6,3 +6,5 @@ I am a computer engineering student at the University of Arkansas in Fayettevill
 I love using the skills I am learning in school to improve projects that I work on.
 
 ![COMPUTER ENGINEERING](../master/Photos/image.png)
+
+![myimage-alt-tag](https://i.pinimg.com/originals/86/39/e2/8639e20b60ff7bd1f50e7aeae6dc42e6.jpg)
