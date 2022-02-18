@@ -17,7 +17,7 @@ I love using the skills I am learning in school to improve projects that I work 
 <h2 align="left">
     Personal Hobbies
 </h2>
-    <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/86/39/e2/8639e20b60ff7bd1f50e7aeae6dc42e6.jpg">
+    <img align="right" width="400" height="500" src="https://i.pinimg.com/originals/86/39/e2/8639e20b60ff7bd1f50e7aeae6dc42e6.jpg">
     <li>Hiking the beautiful state of Arkansas</li>
     <li>Overlanding throughout the country in our amazing 4Runner</li>
     <li>Gaming occasionally</li>
@@ -26,7 +26,17 @@ I love using the skills I am learning in school to improve projects that I work 
     <li>Hanging out with friends</li>
     <li>Day at the range</li>
     <li>Anything that brings on the adventure!</li>
-
+    
+<h2 align="left">
+    Coding knowledge
+</h2>
+    <li>C++</li>
+    <li>Python</li>
+    <li>VHDL</li>
+    <li>Javascript</li>
+    <li>CSS</li>
+    <li>HTML</li>
+    
 </div>
 
 
